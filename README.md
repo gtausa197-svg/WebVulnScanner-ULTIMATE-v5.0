@@ -1467,19 +1467,19 @@ Star us on GitHub: https://github.com/yourusername/WebVulnScanner-ULTIMATE
 
 ### Planned Features
 
-**v5.1 (Q1 2024)**
+**v5.1 (Q1 2025)**
 - [ ] GraphQL API scanning
 - [ ] WebSocket vulnerability detection
 - [ ] Machine learning-based false positive reduction
 - [ ] Integration with Slack/Teams
 
-**v5.2 (Q2 2024)**
+**v5.2 (Q2 2025)**
 - [ ] Mobile application scanning (iOS/Android)
 - [ ] API security testing (OpenAPI/Swagger)
 - [ ] WAF bypass detection
 - [ ] CVSS score calculation
 
-**v6.0 (Q3 2024)**
+**v6.0 (Q3 2025)**
 - [ ] Distributed scanning across multiple nodes
 - [ ] Kubernetes-native deployment
 - [ ] Advanced credential harvesting detection
@@ -1581,4 +1581,4 @@ If WebVulnScanner ULTIMATE has helped you with security testing:
 
 **WebVulnScanner ULTIMATE v5.0** © 2025. Built with ❤️ for the security community.
 
-*Last Updated: January 31, 2025*
+*Last Updated: Mai 31, 2025*
