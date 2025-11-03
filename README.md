@@ -1553,11 +1553,7 @@ EOF
 
 ## 📞 Contact & Support
 
-- **Website:** https://webvulnscanner.dev
-- **GitHub:** https://github.com/yourusername/WebVulnScanner-ULTIMATE
-- **Email:** info@webvulnscanner.dev
-- **Twitter:** @WebVulnScanner
-- **LinkedIn:** WebVulnScanner Team
+- **GitHub:** [https://github.com/yourusername/WebVulnScanner-ULTIMATE](https://github.com/gtausa197-svg)
 
 ---
 
@@ -1583,6 +1579,6 @@ If WebVulnScanner ULTIMATE has helped you with security testing:
 
 ---
 
-**WebVulnScanner ULTIMATE v5.0** © 2024. Built with ❤️ for the security community.
+**WebVulnScanner ULTIMATE v5.0** © 2025. Built with ❤️ for the security community.
 
-*Last Updated: January 15, 2024*
+*Last Updated: January 31, 2025*
